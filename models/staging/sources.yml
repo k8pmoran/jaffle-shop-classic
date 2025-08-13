@@ -1,0 +1,8 @@
+version: 2
+sources:
+  - name: dbo
+    database: "poc_04_lakehouse"
+    tables:
+      - name: raw_claims
+      - name: raw_complaints
+      - name: raw_warranties

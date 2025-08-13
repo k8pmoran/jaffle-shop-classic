@@ -1,0 +1,71 @@
+source_system,source_partner_name,source_partner_country,partner_name,partner_country,partner_name_country,partner_country_code
+TWO,Amazon Austria,Austria,Amazon,Austria,Amazon Austria,AT
+TWO,T-Mobile Austria,Austria,T-Mobile Austria,Austria,T-Mobile Austria,AT
+TWO,H3G Austria,Austria,H3G Austria,Austria,H3G Austria,AT
+TWO,Power,Denmark,Power Denmark,Denmark,Power Denmark,DK
+TWO,Elkjop Denmark,Denmark,Elkjop,Denmark,Elkjop Denmark,DK
+TWO,Elkjop Finland,Finland,Elkjop,Finland,Elkjop Finland,FI
+TWO,Power,Finland,Power Finland,Finland,Power Finland,FI
+TWO,Saturn Germany,Germany,Saturn Germany,Germany,Saturn Germany,DE
+TWO,Amazon Germany,Germany,Amazon,Germany,Amazon Germany,DE
+TWO,Power,Norway,Power Norway,Norway,Power Norway,NO
+TWO,Elkjop Norway,Norway,Elkjop,Norway,Elkjop Norway,NO
+TWO,FNAC,Portugal,Fnac Portugal,Portugal,Fnac Portugal,PT
+TWO,Amazon Spain,Spain,Amazon,Spain,Amazon Spain,ES
+TWO,Elkjop Sweden,Sweden,Elkjop,Sweden,Elkjop Sweden,SE
+TWO,Power,Sweden,Power Sweden,Sweden,Power Sweden,SE
+TWO,Three,United Kingdom,Three UK,United Kingdom,Three UK,GB
+TWO,Amazon UK,United Kingdom,Amazon,United Kingdom,Amazon UK,GB
+Respond,Amazon DE Upfront,Germany,Amazon,Germany,Amazon Germany,DE
+Respond,Amazon ES Upfront,Spain,Amazon,Spain,Amazon Spain,ES
+Respond,Amazon EU Spain Monthly,Spain,Amazon,Spain,Amazon Spain,ES
+Respond,Amazon EU Spain Upfront,Spain,Amazon,Spain,Amazon Spain,ES
+Respond,Amazon EU UK Upfront,United Kingdom,Amazon,United Kingdom,Amazon UK,GB
+Respond,Amazon UK Upfront,United Kingdom,Amazon,United Kingdom,Amazon UK,GB
+Respond,Elgiganten,Sweden,Elkjop,Sweden,Elkjop Sweden,SE
+Respond,Elgiganten,Denmark,Elkjop,Denmark,Elkjop Denmark,DK
+Respond,Elkjp,Sweden,Elkjop,Sweden,Elkjop Sweden,SE
+Respond,Elkjp,Norway,Elkjop,Norway,Elkjop Norway,NO
+Respond,FNAC Portugal,Portugal,Fnac Portugal,Portugal,Fnac Portugal,PT
+Respond,Gigantti,Finland,Elkjop,Finland,Elkjop Finland,FI
+Respond,Media Markt,Belgium,MediaMarkt Belgium,Belgium,MediaMarkt Belgium,BE
+Respond,Media Markt,Hungary,MediaMarkt Hungary,Hungary,MediaMarkt Hungary,HU
+Respond,Media Markt,Austria,MediaMarkt Austria,Austria,MediaMarkt Austria,AT
+Respond,Media Markt,Spain,MediaMarkt Spain,Spain,MediaMarkt Spain,ES
+Respond,Media Markt,Sweden,MediaMarkt Sweden,Sweden,MediaMarkt Sweden,SE
+Respond,Media Markt,Netherlands,MediaMarkt Netherlands,Netherlands,MediaMarkt Netherlands,NL
+Respond,Media Markt,Portugal,MediaMarkt Portugal,Portugal,MediaMarkt Portugal,PT
+Respond,Media Markt,Germany,MediaMarkt Germany,Germany,MediaMarkt Germany,DE
+Respond,Media Markt Portugal,Portugal,MediaMarkt Portugal,Portugal,MediaMarkt Portugal,PT
+Respond,Media Markt Portugal Monthly,Portugal,MediaMarkt Portugal,Portugal,MediaMarkt Portugal,PT
+Respond,Media Markt Portugal Monthly ACS,Portugal,MediaMarkt Portugal,Portugal,MediaMarkt Portugal,PT
+Respond,Media Markt Spain,Spain,MediaMarkt Spain,Spain,MediaMarkt Spain,ES
+Respond,Media Markt Spain Monthly ACS QUASAR,Spain,MediaMarkt Spain,Spain,MediaMarkt Spain,ES
+Respond,Media Markt Spain Monthly QUASAR,Spain,MediaMarkt Spain,Spain,MediaMarkt Spain,ES
+Respond,MediaMarkt Austria Monthly ACS,Austria,MediaMarkt Austria,Austria,MediaMarkt Austria,AT
+Respond,MediaMarkt Austria Upfront ACS,Austria,MediaMarkt Austria,Austria,MediaMarkt Austria,AT
+Respond,MediaMarkt Magyarorszg,Hungary,MediaMarkt Hungary,Hungary,MediaMarkt Hungary,HU
+Respond,MediaMarktSaturn Deutschland,Germany,MediaMarkt Germany,Germany,MediaMarkt Germany,DE
+Respond,Phone House,Netherlands,PhoneHouse,Netherlands,PhoneHouse Netherlands,NL
+Respond,Talkmore,Norway,Telenor Norway,Norway,Telenor Norway,NO
+Respond,Telenor,Denmark,Telenor Denmark,Denmark,Telenor Denmark,DK
+Respond,Telenor,Norway,Telenor Norway,Norway,Telenor Norway,NO
+Respond,Telenor Sweden,Sweden,Telenor Sweden,Sweden,Telenor Sweden,SE
+Respond,Telenor Sweden AM,Sweden,Telenor Sweden,Sweden,Telenor Sweden,SE
+Respond,Three,United Kingdom,Three UK,United Kingdom,Three UK,GB
+Respond,Tre,Sweden,H3G Sweden,Sweden,H3G Sweden,SE
+Salesforce,Amazon,UK,Amazon,United Kingdom,Amazon UK,GB
+Salesforce,H3G,Sweden,H3G Sweden,Sweden,H3G Sweden,SE
+Salesforce,H3G,Austria,Drei,Austria,H3G Austria,AT
+Salesforce,MM,Netherlands,MediaMarkt Netherlands,Netherlands,MediaMarkt Netherlands,NL
+Salesforce,MM,Sweden,MediaMarkt Sweden,Sweden,MediaMarkt Sweden,SE
+Salesforce,MM,Spain,MediaMarkt Spain,Spain,MediaMarkt Spain,ES
+Salesforce,MM,Portugal,MediaMarkt Portugal,Portugal,MediaMarkt Portugal,PT
+Salesforce,MM,Austria,MediaMarkt Austria,Austria,MediaMarkt Austria,AT
+Salesforce,MMSA,Germany,MediaMarkt Germany,Germany,MediaMarkt Germany,DE
+Salesforce,PH,Netherlands,PhoneHouse,Netherlands,PhoneHouse Netherlands,NL
+Salesforce,TDC,Denmark,YouSee,Denmark,YouSee Denmark,DK
+Salesforce,Three,UK,Three UK,United Kingdom,Three UK,GB
+Salesforce,TLN,Denmark,Telenor Denmark,Denmark,Telenor Denmark,DK
+Salesforce,TLN,Norway,Telenor Norway,Norway,Telenor Norway,NO
+Salesforce,TMA,Austria,Magenta,Austria,Magenta Austria,AT
